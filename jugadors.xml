@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfPlayer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Player>
+    <name>LuckHax</name>
+    <click>120</click>
+  </Player>
+  <Player>
+    <name>Ritz</name>
+    <click>90</click>
+  </Player>
+  <Player>
+    <name>Frost</name>
+    <click>50</click>
+  </Player>
+  <Player>
+    <name>Tomaz91</name>
+    <click>10</click>
+  </Player>
+  <Player>
+    <name>Albert</name>
+    <click>180</click>
+  </Player>
+</ArrayOfPlayer>
